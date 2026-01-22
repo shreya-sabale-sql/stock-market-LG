@@ -1,7 +1,7 @@
 # 📈 Stock Performance Analysis – LG Electronics  
 ### *Data Analysis & Visualization Project*
 
-![Stock Performance](dashboards/cover.png)
+![Uploading image.png…]()
 
 ---
 
